@@ -5,8 +5,8 @@ Quiero almacenar todos los ejercicio de programación del sitio http://progra.us
 
 ### Simples
 
--  <a href="parte1/01_saludo.py">Saludo</a>
-- Círculos
+- <a href="parte1/01_saludo.py">Saludo</a>
+- <a href="parte1/02_circulos.py">Círculos</a>
 - Promedio
 - Conversión de unidades de longitud
 - Número invertido
