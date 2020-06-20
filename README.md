@@ -16,7 +16,7 @@ Quiero almacenar todos los ejercicio de programación del sitio http://progra.us
 - Qué nota necesito
 - Huevos a la copa
 
-###Estructuras condicionales
+### Estructuras condicionales
 - Determinar par
 - Años bisiestos
 - División
