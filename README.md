@@ -7,7 +7,7 @@ Quiero almacenar todos los ejercicio de programación del sitio http://progra.us
 
 - <a href="parte1/01_saludo.py">Saludo</a>
 - <a href="parte1/02_circulos.py">Círculos</a>
--<a href="parte1/03_promedios.py"> Promedio </a>
+- <a href="parte1/03_promedios.py"> Promedio </a>
 - Conversión de unidades de longitud
 - Número invertido
 - Pitágoras
