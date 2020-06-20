@@ -50,10 +50,6 @@ ANALISIS:
 
 s <->  (p and ¬q)  or ( p and q and r )
 """
-def divisible_entre_numero(anio, numero):
-    return anio%numero==0
-    
-
 
 if __name__ == "__main__":
 
