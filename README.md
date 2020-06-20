@@ -11,7 +11,7 @@ Quiero almacenar todos los ejercicio de programación del sitio http://progra.us
 - <a href="parte1/04_cm_a_pugladas.py"> Conversión de unidades de longitud </a>
 - <a href="parte1/05_numero_invertido.py"> Número invertido </a>
 - <a href="parte1/06_pitagoras.py"> Pitágoras </a>
-- Hora futura
+- <a href="parte1/07_Hora_futura"> Hora futura </a>
 - Parte decimal
 - Qué nota necesito
 - Huevos a la copa
