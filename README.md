@@ -17,7 +17,7 @@ Quiero almacenar todos los ejercicio de programación del sitio http://progra.us
 - Huevos a la copa
 
 ### Estructuras condicionales
-- Determinar par
+- <a href="11_Determinar_par">Determinar par</a>
 - Años bisiestos
 - División
 - Palabra más larga
