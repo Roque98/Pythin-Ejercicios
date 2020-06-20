@@ -13,7 +13,7 @@ Quiero almacenar todos los ejercicio de programación del sitio http://progra.us
 - <a href="parte1/06_pitagoras.py"> Pitágoras </a>
 - <a href="parte1/07_Hora_futura.py"> Hora futura </a>
 - <a href="parte1/08_Parte_decimal.py"> Parte decimal </a>
-- <a href="09_Que_nota_necesito">Qué nota necesito </a>
+- <a href="parte1/09_Que_nota_necesito">Qué nota necesito </a>
 - Huevos a la copa
 
 ### Estructuras condicionales
