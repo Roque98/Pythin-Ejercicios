@@ -9,7 +9,7 @@ Quiero almacenar todos los ejercicio de programación del sitio http://progra.us
 - <a href="parte1/02_circulos.py">Círculos</a>
 - <a href="parte1/03_promedios.py"> Promedio </a>
 - <a href="parte1/04_cm_a_pugladas.py"> Conversión de unidades de longitud </a>
-- Número invertido
+- <a href="parte1/05_numero_invertido.py"> Número invertido </a>
 - Pitágoras
 - Hora futura
 - Parte decimal
